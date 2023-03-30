@@ -11,3 +11,13 @@
     justify-content: space-between;
     font-weight: bold;
 }
+
+.button {
+    background: none;
+    border: none;
+}
+
+.isActive {
+    transform: scale(2);
+    color: gold;
+  }
