@@ -19,6 +19,6 @@ const columnsReducer = (statePart = [], action) => {
       default:
         return statePart;
     }
-  }
+}
 
 export default columnsReducer;

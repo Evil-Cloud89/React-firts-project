@@ -15,6 +15,6 @@ const searchStringReducer = (statePart = '', action) => {
       default:
         return statePart;
     }
-  }
+}
 
 export default searchStringReducer;
